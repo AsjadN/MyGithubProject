@@ -7,7 +7,7 @@ public class Hello {
 		System.out.println("Bye!");
 		System.out.println("Bobur");
 		System.out.println("Java is fun!");
-		System.out.println("Java is not fun");
+		System.out.println("Java is so fun");
 
 	}
 
